@@ -26,7 +26,7 @@ Microsoft Teams offers a number of features useful for hospitals and other Healt
 
 - Care Coordination and collaboration
 - Secure Messaging
-- Telehealth
+- Virtual Visits and Bookings
 - Electronic Healthcare Record (EHR) integration 
 - Firstline Worker system integration 
 
